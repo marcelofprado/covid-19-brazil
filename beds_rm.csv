@@ -1,0 +1,92 @@
+﻿ibge_code,name,UF,beds,beds_sus,beds_non_sus
+13010,Manaus , AM,3773,3037,736
+14010,Capital , RR,997,933,64
+14020,Sul do Estado , RR,78,75,3
+14030,Central , RR,25,24,1
+15010,Belém , PA,4951,3541,1410
+15020,Santarém , PA,491,375,116
+16010,Macapá , AP,811,666,145
+17010,Palmas , TO,1378,908,470
+17020,Gurupi , TO,444,301,143
+21010,Grande São Luís , MA,4227,3365,862
+21020,Sudoeste Maranhense , MA,944,738,206
+22010,Grande Teresina , PI/MA,3463,2700,763
+23010,Fortaleza , CE,9626,6289,3337
+23020,Cariri , CE,1525,1154,371
+24010,Natal , RN,3548,2546,1002
+25010,João Pessoa , PB,3202,2183,1019
+25020,Campina Grande , PB,1786,1413,373
+25030,Guarabira , PB,258,161,97
+25040,Patos , PB,429,384,45
+25050,Esperança , PB,147,147,-
+25060,Cajazeiras , PB,332,270,62
+25070,Vale do Piancó , PB,317,306,11
+25080,Barra de Santa Rosa , PB,204,204,-
+25090,Vale do Mamanguape , PB,130,130,-
+25100,Sousa , PB,243,150,93
+25110,Itabaiana , PB,82,81,1
+25120,Araruna , PB,34,34,-
+26010,Recife , PE,11617,7913,3704
+26020,Petrolina/Juazeiro,PE/BA,1485,1073,412
+27010,Maceió , AL,3034,2208,826
+27020,Agreste , AL,1097,888,209
+27030,Vale do Paraíba , AL,202,202,-
+27040,Zona da Mata , AL,359,355,4
+27050,Palmeira dos Índios , AL,175,159,16
+27060,Caetés , AL,493,485,8
+27070,Sertão , AL,144,144,-
+27080,Médio Sertão , AL,149,142,7
+28010,Aracaju , SE,2248,1472,776
+29010,Salvador , BA,9621,6549,3072
+29021,Fde Santana , núc ,1508,1037,471
+29022,F.de Santana , exp ,248,242,6
+31011,B.Horizonte , núcl ,11053,6566,4487
+31012,BHorizonte , colar ,749,495,254
+31021,Vale do Aço , núcl ,778,462,316
+31022,Vale do Aço , colar ,243,166,77
+32010,Grande Vitória , ES,3776,2301,1475
+33010,Rio de Janeiro , RJ,21242,13046,8196
+35010,São Paulo , SP,41889,22565,19324
+35020,Baixada Santista , SP,2895,1758,1137
+35030,Campinas , SP,4766,2692,2074
+35041,V.Paraíba/Lit Nort 1 ,SP,2230,1068,1162
+35042,V.Paraíba/Lit Nort 2 ,SP,1029,690,339
+35043,V.Paraíba/Lit Nort 3 ,SP,657,364,293
+35044,V.Paraíba/Lit Nort 4 ,SP,158,122,36
+35045,V.Paraíba/Lit Nort 5 ,SP,409,329,80
+35050,Jundiaí , SP,1104,645,459
+35060,Piracicaba , SP,2395,1218,1177
+35070,Sorocaba , SP,3356,1875,1481
+41010,Curitiba , PR,8804,5254,3550
+41020,Londrina , PR,3069,2159,910
+41030,Maringá , PR,2469,1499,970
+41040,Umuarama , PR,895,732,163
+42011,Florianópolis , núc ,2758,1883,875
+42012,Florianópolis , exp ,328,229,99
+42021,Vale Itajaí , núc ,1035,642,393
+42022,Vale Itajaí , exp ,406,262,144
+42031,Norte/Nordest , núc ,1187,790,397
+42032,Norte/Nordest , exp ,1111,824,287
+42041,Foz R.Itajaí , núc ,924,521,403
+42042,Foz R.Itajaí , exp ,36,34,2
+42051,Carbonífera , núc ,742,530,212
+42052,Carbonífera , exp ,610,525,85
+42061,Tubarão , núc ,463,262,201
+42062,Tubarão , exp ,459,369,90
+42071,Lages , núc ,476,340,136
+42072,Lages , exp ,631,502,129
+42081,Chapecó , núc ,839,596,243
+42082,Chapecó , exp ,344,280,64
+42091,Alto V.Itajaí , núc ,434,342,92
+42092,Alto V.Itajaí , exp ,302,285,17
+42101,Extremo Oeste , núc ,572,456,116
+42102,Extremo Oeste , exp ,281,221,60
+42111,Contestado , núcleo ,1384,1028,356
+43010,Porto Alegre , RS,10873,7002,3871
+43020,Litoral Norte , RS,378,331,47
+43030,Serra Gaúcha , RS,1938,983,955
+43040,Sul , RS,1933,1448,485
+51011,Vale R.Cuiabá , núc ,2434,1655,779
+51012,Vale R.Cuiabá , ent ,194,173,21
+52010,Goiânia , GO,8643,4500,4143
+53010,DF e Entorno , DF/GO/MG,7795,4584,3211
